@@ -1,5 +1,4 @@
 <scheduled_executions>	
-	<!--
 	<execution>
 		<class_full_name>com.era7.bioinfo.bio4j.programs.InitBio4jDB</class_full_name>
 		<arguments>
@@ -75,6 +74,4 @@
 			<argument>batchInserter.properties</argument>			
 		</arguments>
 	</execution>	
-	-->
-	
 </scheduled_executions>
